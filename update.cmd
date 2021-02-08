@@ -1,2 +1,2 @@
-git fetch
-git merge
+git pull
+git checkout origin/master
